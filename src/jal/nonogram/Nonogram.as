@@ -33,9 +33,9 @@ package jal.nonogram {
 			if ( nonogram == "" ) {
 				// default
 				// xxooooooooxxooooooooxxxxooooooxxxxooooooxxxxxxooooxxxxxxooooxxxxxxxxooxxxxxxxxooxxxxxxxxxxxxxxxxxxxx
-				//nonogram  = "ooooooooooooooooxoooooooooxxooxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxooooooooxooooooooooooooooooooooo"; 
+				nonogram  = "ooooooooooooooooxoooooooooxxooxxxxxxxxxoxxxxxxxxxxxxxxxxxxxoxxxxxxxxooooooooxooooooooooooooooooooooo"; 
 				//"ooooooooooxooooooooxoxooooooxoooxooooxoooooxooxoooooooxxoooooooxooxoooooxooooxoooxooooooxoxoooooooox";
-				nonogram = "xoooxxoooxoxoooxooxoooxoxooxoooooxoxxoooxoxoxxxoxxxxoxxxoxoxoooxxoxoooooxooxoxoooxooxoooxoxoooxxooox";
+				//nonogram = "xoooxxoooxoxoooxooxoooxoxooxoooooxoxxoooxoxoxxxoxxxxoxxxoxoxoooxxoxoooooxooxoxoooxooxoooxoxoooxxooox";
 				w = 10;
 				h = 10;
 			}
