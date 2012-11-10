@@ -3,6 +3,18 @@
 A [nonogram](http://en.wikipedia.org/wiki/Nonogram) implementation in Flash. 
 From 2003/2004.
 
+# Compile
+
+Install `mxmlc` and make sure it is in your path. If you're on OS X
+then:
+
+    `brew install mxmlc`
+
+and then augment your path, following the provided instructions. Then,
+run make.
+
+    make
+
 # Controls
 
 * Click to mark a block.
