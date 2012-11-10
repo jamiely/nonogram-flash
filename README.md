@@ -8,7 +8,7 @@ From 2003/2004.
 Install `mxmlc` and make sure it is in your path. If you're on OS X
 then:
 
-    `brew install mxmlc`
+    brew install mxmlc
 
 and then augment your path, following the provided instructions. Then,
 run make.
