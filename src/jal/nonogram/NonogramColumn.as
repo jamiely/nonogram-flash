@@ -1,6 +1,6 @@
 package jal.nonogram {
 	import flash.geom.Point;
-	public class NonogramColumn extends NonogramCellContainer {
+	dynamic public class NonogramColumn extends NonogramCellContainer {
 		private var _colNumber: uint = 0;
 		function NonogramColumn ( colNumber: uint ) {
 			super ();
